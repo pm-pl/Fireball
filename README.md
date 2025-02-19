@@ -1,2 +1,2 @@
 # Fireball
-Minigames fireball implemented to PocketMine-MP.
+- Minigames fireball implemented to PocketMine-MP.
