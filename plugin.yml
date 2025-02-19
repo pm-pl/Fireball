@@ -1,0 +1,6 @@
+name: Fireball
+main: xRookieFight\Fireball\Main
+author: xRookieFight
+description: Minigames fireball implemented to PocketMine-MP.
+api: 5.0.0
+version: 1.0.0
